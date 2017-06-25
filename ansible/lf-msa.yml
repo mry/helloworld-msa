@@ -1,5 +1,5 @@
 ---
-- name: Install Helloworld-MSA in OpenShift
+- name: Install lf-MSA in OpenShift
   hosts: localhost
   vars_files:
     - vars.yml
